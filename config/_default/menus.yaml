@@ -13,6 +13,6 @@ main:
   - name: Blog
     url: /blog
     weight: 13
-  - name: CV
+  - name: Resume
     url: cv/
     weight: 20

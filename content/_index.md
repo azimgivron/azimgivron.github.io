@@ -19,7 +19,7 @@ sections:
         text: Download CV
         url: uploads/resume.pdf
       headings:
-        about: ''
+        about: 'About Me and Why I Built This Website'
         education: ''
         interests: ''
     design:

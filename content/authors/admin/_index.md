@@ -165,7 +165,6 @@ languages:
 #       Recognized for contributions to scaling laws in deep learning.
 ---
 
-
 👋 Hi, I’m **Azim Givron**. I am a PhD student in Artificial Intelligence at KU Leuven, in the Electrical Engineering department (ESAT). My research lies at the intersection of **genomics and machine learning**, with a focus on bioinformatics applications.
 
 I started this website not just to share my career journey, but also to create a space where I can share ideas and knowledge. I’ll be writing blog posts about my research, but also about **AI ethics** and broader topics that affect all of us.
