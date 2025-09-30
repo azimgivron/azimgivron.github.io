@@ -45,6 +45,8 @@ interests:
   - Optimization
   - Genetics
   - Rare Diseases
+  - Gene Prioritization
+  - Virology
   - AI Ethics
 
 education:
@@ -75,7 +77,13 @@ work:
     date_start: 2022-06-01
     date_end: 2025-06-01
     summary: |2-
-      Developing scientific software, mostly for nuclear engineering applications.
+      As an R&D Engineer in neutronics, I have led the development and integration of advanced computational tools and surrogate models to accelerate reactor design and analysis. My key contributions include:
+      - Geometry Automation: Designed and implemented software that streamlines the creation of complex reactor geometries (Computer Aided Design and Constructive Solid Geometry), reducing setup time and error rates.
+      - Data-Scarce Regression: Developed regression methods tailored for very small datasets (3 to 6 points), incorporating prior curve knowledge and rigorous uncertainty quantification.
+      - Radioactive-Gas Transport: Built a coupled 1D multiphysics code to model the transport of radioactive gases.
+      - Data Pipeline Engineering: Architected a centralized data-processing pipeline to facilitate seamless sharing, storage and retrieval of experimental and simulation results.
+      - Transient Neutron Kinetics: Created 0D and 1D neutron-kinetics solvers—based on point-kinetics and transient fission-matrix techniques—for rapid reactivity-insertion studies in molten-salt reactors.
+      - Surrogate Multiphysics Modeling: Developed a fast, multiphysics surrogate (neutronics, thermomechanics, thermohydraulics) framework to enable rapid prototyping and optimization of novel reactor concepts.
   - position: Data Scientist
     company_name: Euranova
     company_url: 'https://www.naarea.fr/fr'
@@ -83,7 +91,19 @@ work:
     date_start: 2020-09-01
     date_end: 2022-06-01
     summary: |2-
-      Developing machine learning solutions for marketing applications.
+      As a Data Scientist in consulting, I focused on designing and deploying machine learning solutions, primarily for marketing applications. Key contributions included:
+        - Partnering with clients to translate business requirements into actionable roadmaps with clear KPIs to track progress and impact.  
+        - Developing and customizing machine learning algorithms tailored to client-specific needs.  
+        - Conducting rigorous evaluation of model performance through systematic testing and fine-tuning to ensure robust and reliable outcomes.  
+        - Co-organizing Eura Nova’s flagship hackathon, driving innovation, collaboration, and knowledge exchange among colleagues and industry professionals.  
+  - position: Computer Engineer Intern
+    company_name: NXP Semiconductors
+    company_url: 'https://www.nxp.com'
+    company_logo: ''
+    date_start: 2019-07-01
+    date_end: 2019-10-01
+    summary: |2-
+      As a Cryptography R&D Intern, I configured NXP microchips to implement controlled cyber-attacks and analyze the resulting sensor behavior. The collected data was then leveraged to train machine learning algorithms capable of recognizing and classifying such attacks.  
 
 # # Skills
 # # Add your own SVG icons to `assets/media/icons/`
