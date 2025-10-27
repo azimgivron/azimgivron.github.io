@@ -47,6 +47,7 @@ interests:
   - Rare Diseases
   - Gene Prioritization
   - Virology
+  - Drug Discovery
   - AI Ethics
 
 education:
