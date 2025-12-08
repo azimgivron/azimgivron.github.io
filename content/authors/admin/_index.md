@@ -166,8 +166,11 @@ languages:
 #       Recognized for contributions to scaling laws in deep learning.
 ---
 
-👋 Hi, I’m **Azim Givron**. I am a PhD student in Artificial Intelligence at KU Leuven, in the Electrical Engineering department (ESAT). My research lies at the intersection of **genomics and machine learning**, with a focus on bioinformatics applications.
+👋 Hi, I’m **Azim Givron**. I am a PhD student in Artificial Intelligence at KU Leuven, in the Electrical Engineering department (ESAT). My research is situated at the intersection of **optimization and machine learning**, with an emphasis on developing mathematically grounded methods for complex learning systems.
 
-I started this website not just to share my career journey, but also to create a space where I can share ideas and knowledge. I’ll be writing blog posts about my research, but also about **AI ethics** and broader topics that affect all of us.
+My doctoral work investigates how **advanced smoothing strategies—such as proximal gradient methods and forward–backward splitting—** can be integrated into modern deep learning and generative models. These optimization techniques provide a principled way to enhance stability, control model structure, and improve convergence in high-dimensional settings. The scope of this research spans multiple domains, with applications ranging from **gene prioritization** to **drug discovery**, where more reliable and interpretable models can meaningfully accelerate scientific progress.
 
-My goal is to make AI easier to understand. It’s not some mysterious technology only for experts—AI is already shaping the world around us, and I want to help you see how it works and why it matters.
+I started this website not only to share my academic journey but also to create a place where I can explore ideas and exchange knowledge. I’ll be writing about my research, as well as topics in **AI ethics** and other issues shaping the technological landscape.
+
+My goal is to make AI easier to understand. It is not an isolated discipline reserved for specialists—AI already influences many aspects of daily life, and I hope to help you see how it works and why thoughtful design matters.
+

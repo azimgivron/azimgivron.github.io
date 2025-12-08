@@ -34,23 +34,23 @@ sections:
       title: '📚 My PhD'
       subtitle: ''
       text: |-
-        Matrix completion using deep neural networks via advanced optimization techniques This research aims to develop a matrix completion framework incorporating both Euclidean and non-Euclidean methodologies to effectively capture complex data structures. 
-        
-        Nonsmooth regularization techniques, such as the $\ell_1$-norm and nuclear norm, are integrated to promote sparsity and low-rank structure in the reconstructed matrices. To address the resulting optimization challenges, advanced smoothing strategies—specifically proximal gradient methods and forward-backward splitting—are employed.
-        
-        By combining deep modeling with robust mathematical optimization, the proposed approach is designed to enhance imputation accuracy, particularly in the presence of irregular and high-dimensional data. The method will be validated on real-world datasets from recommendation systems and biomedical domains, such as rare diseases and gene prioritization, demonstrating improved performance over traditional techniques.
+        This thesis investigates the integration of advanced smoothing strategies—most notably proximal gradient methods and forward–backward splitting—into modern deep learning architectures and generative modeling frameworks. The central objective is to exploit these optimization techniques to improve stability, convergence behavior, and interpretability in high-dimensional learning problems.
+
+        The methodological contribution lies in adapting classical operator-splitting schemes to neural models, enabling controlled regularization and structured sparsity while preserving expressiveness. These techniques allow complex models to incorporate domain-specific priors through proximal operators, facilitating more robust training in settings where data are noisy, incomplete, or inherently constrained.
+
+        The practical relevance of this work spans multiple areas in computational biology and biomedical data science. In gene prioritization, the proposed methods aim to improve the ranking of candidate genes by enforcing biologically meaningful structures and smoothing noisy association signals. In drug discovery, the same framework supports more reliable generative models for molecular design by promoting physically consistent representations and reducing the instability often observed in traditional generative training regimes.
     design:
       columns: '1'
-  - block: collection
-    content:
-      title: Recent Publications
-      text: ''
-      filters:
-        folders:
-          - publications
-        exclude_featured: false
-    design:
-      view: citation
+  # - block: collection
+  #   content:
+  #     title: Recent Publications
+  #     text: ''
+  #     filters:
+  #       folders:
+  #         - publications
+  #       exclude_featured: false
+  #   design:
+  #     view: citation
   - block: collection
     id: blog
     content:
