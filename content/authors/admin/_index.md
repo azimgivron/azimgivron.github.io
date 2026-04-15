@@ -31,7 +31,7 @@ organizations:
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: "mailto:azimgivron@gmail.com"
+    url: "mailto:azim.givron@kuleuven.be"
     label: E-mail Me
   - icon: brands/github
     url: "https://github.com/azimgivron"
@@ -41,13 +41,12 @@ profiles:
     url: https://scholar.google.com
 
 interests:
-  - Matrix Completion
-  - Optimization
-  - Genetics
-  - Rare Diseases
-  - Gene Prioritization
-  - Virology
-  - Drug Discovery
+  - Machine Learning
+  - Deep Learning
+  - Fancy applicable math
+  - Bio-Molecular Chemistry 
+  - Quantum Chemistry
+  - Physics
   - AI Ethics
 
 education:
@@ -134,7 +133,7 @@ skills:
 
 languages:
   - name: English
-    percent: 100
+    percent: 90
   - name: French
     percent: 100
 
@@ -166,11 +165,5 @@ languages:
 #       Recognized for contributions to scaling laws in deep learning.
 ---
 
-👋 Hi, I’m **Azim Givron**. I am a PhD student in Artificial Intelligence at KU Leuven, in the Electrical Engineering department (ESAT). My research is situated at the intersection of **optimization and machine learning**, with an emphasis on developing mathematically grounded methods for complex learning systems.
-
-My doctoral work investigates how **advanced smoothing strategies—such as proximal gradient methods and forward–backward splitting—** can be integrated into modern deep learning and generative models. These optimization techniques provide a principled way to enhance stability, control model structure, and improve convergence in high-dimensional settings. The scope of this research spans multiple domains, with applications ranging from **gene prioritization** to **drug discovery**, where more reliable and interpretable models can meaningfully accelerate scientific progress.
-
-I started this website not only to share my academic journey but also to create a place where I can explore ideas and exchange knowledge. I’ll be writing about my research, as well as topics in **AI ethics** and other issues shaping the technological landscape.
-
-My goal is to make AI easier to understand. It is not an isolated discipline reserved for specialists—AI already influences many aspects of daily life, and I hope to help you see how it works and why thoughtful design matters.
+👋 Hi, I’m **Azim Givron**. I am a PhD student in Artificial Intelligence at KU Leuven, in the Electrical Engineering department (ESAT). For the rest I am working on it.
 

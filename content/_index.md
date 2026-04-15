@@ -19,7 +19,7 @@ sections:
         text: Download CV
         url: uploads/resume.pdf
       headings:
-        about: 'About Me and Why I Built This Website'
+        about: "About Me and Why I've Built This Website"
         education: ''
         interests: ''
     design:
@@ -34,11 +34,7 @@ sections:
       title: '📚 My PhD'
       subtitle: ''
       text: |-
-        This thesis investigates the integration of advanced smoothing strategies—most notably proximal gradient methods and forward–backward splitting—into modern deep learning architectures and generative modeling frameworks. The central objective is to exploit these optimization techniques to improve stability, convergence behavior, and interpretability in high-dimensional learning problems.
-
-        The methodological contribution lies in adapting classical operator-splitting schemes to neural models, enabling controlled regularization and structured sparsity while preserving expressiveness. These techniques allow complex models to incorporate domain-specific priors through proximal operators, facilitating more robust training in settings where data are noisy, incomplete, or inherently constrained.
-
-        The practical relevance of this work spans multiple areas in computational biology and biomedical data science. In gene prioritization, the proposed methods aim to improve the ranking of candidate genes by enforcing biologically meaningful structures and smoothing noisy association signals. In drug discovery, the same framework supports more reliable generative models for molecular design by promoting physically consistent representations and reducing the instability often observed in traditional generative training regimes.
+        What is my thesis about ? I am working on it. It involves Flow models applied to peptide design in the context of drug discovery. I know, it's vague but it's in progress. 
     design:
       columns: '1'
   # - block: collection
